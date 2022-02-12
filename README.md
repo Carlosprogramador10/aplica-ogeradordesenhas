@@ -1,2 +1,5 @@
-# aplica-ogeradordesenhas
-Gerador de Senhas
+#Aplicação Gerador de Senhas
+
+GERADOR DE SENHA!!!
+
+
