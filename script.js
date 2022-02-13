@@ -32,7 +32,8 @@ function generatePassword(){
 }
 
 function copyPassword(){
-    alert("Senha copiada com sucesso.")
+    // alert("Senha copiada com sucesso.");
+    document.querySelector(".tooltip").innerHTML = `A senha ${novasenha} foi copiada com sucesso. 👍`
     navigator.clipboard.writeText(novasenha);
 
 }
